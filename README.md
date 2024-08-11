@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guhan5801" alt="guhan5801" /></a> </p>
 
-- 🔭 I’m currently working on **CUBE CORPSOL**
-
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **guhanchinnasamy5801@gmail.com**
 
